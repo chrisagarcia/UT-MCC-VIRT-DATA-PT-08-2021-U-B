@@ -12,12 +12,8 @@ In this activity, you will be using joins to query NBA player seasonal statistic
 
 Basic Information Table:
 
-  ![Basic Info](Images/basic_info.png)
+    ![Basic Info](Images/basic_info.png)
 
 Percent Stats:
 
-  ![Percent Stats](Images/percent_stats.png)
-
----
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
+    ![Percent Stats](Images/percent_stats.png)
