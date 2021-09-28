@@ -1,6 +1,6 @@
 ## Using CRUD: Seek, Create, Update, and Destroy
 
-In this activity, you will be utilizing CRUD operations (Create, Read, Update, Destroy) on the provided data.
+In this activity, you will be utilizing CRUD operations (Create, Read, Update, Delete) on the provided data.
 
 ### Instructions
 
@@ -22,3 +22,7 @@ In this activity, you will be utilizing CRUD operations (Create, Read, Update, D
 
   > Country, TotalPopulation, TotalMilitaryPersonnel, TotalAircraftStrength, TotalHelicopterStrength
   > 'country_name', 60069024, 524358, 457, 183
+
+  ---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

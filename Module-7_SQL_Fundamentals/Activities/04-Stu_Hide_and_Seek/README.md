@@ -23,3 +23,7 @@ In this activity, you will create a new table and import data from a CSV file.
 * Create a query that will collect all rows with a `source` of BC and an author range between 333 and 335.
 
 Note: Data provided by [Kaggle](https://www.kaggle.com/anneloes/wordgame/data#wordgame_20170721.csv).
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
