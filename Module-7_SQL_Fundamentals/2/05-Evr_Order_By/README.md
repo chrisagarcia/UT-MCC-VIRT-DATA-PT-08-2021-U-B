@@ -13,3 +13,7 @@ In this activity, you will use `ORDER BY` in combination with other SQL methods 
 ### Bonus
 
 * Using the city and country tables, determine the number of cities in each country from the database in descending order.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

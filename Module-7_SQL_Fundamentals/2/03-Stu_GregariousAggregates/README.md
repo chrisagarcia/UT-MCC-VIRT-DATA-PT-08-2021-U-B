@@ -17,3 +17,7 @@ Use aggregate functions as you run queries to answer the following questions. Yo
 5. How long is the longest movie in the database? How long is the shortest movie?
 
 **Hint**: Consult the Postgres documentation on [aggregate functions](https://www.postgresql.org/docs/9.5/functions-aggregate.html) for a summary of the available functions.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

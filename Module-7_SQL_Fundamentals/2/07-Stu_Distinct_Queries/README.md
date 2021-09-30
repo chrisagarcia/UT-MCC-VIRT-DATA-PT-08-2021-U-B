@@ -4,7 +4,7 @@ In this activity, you will practice using `DISTINCT ON ()` with joins and filter
 
 ### Instructions
 
-1. Retreive the latest rental for each customer's first and last name and emial address. 
+1. Retreive the latest rental for each customer's first and last name and email address. 
 
 2. Retrieve the latest rental date for each title. 
 
@@ -16,3 +16,6 @@ In this activity, you will practice using `DISTINCT ON ()` with joins and filter
 
 * **Hint:** You won't need to use `DISTINCT ON ()` for this solution. Determine if the `film_id` from the `film` table is `NOT IN` the `inventory` table. 
 
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
