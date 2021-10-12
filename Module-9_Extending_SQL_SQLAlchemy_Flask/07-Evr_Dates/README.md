@@ -12,3 +12,7 @@ Calculate the high-low peak-to-peak (PTP) values for `IBM` stock after `2011-05-
 * Use a DateTime.date object in the query filter
 * Use a list comprehension or NumPy's ravel method to unpack the query's list of tuples into a list of PTP values.
 * Use matplotlib to plot the PTP values as a boxplot
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
