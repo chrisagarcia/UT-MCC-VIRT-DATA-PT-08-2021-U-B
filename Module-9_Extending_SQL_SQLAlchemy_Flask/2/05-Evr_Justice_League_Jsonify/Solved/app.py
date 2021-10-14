@@ -14,16 +14,28 @@ justice_league_members = [
 #################################################
 # Flask Setup
 #################################################
-# @TODO: Initialize your Flask app here
-# YOUR CODE GOES HERE
+app = Flask(__name__)
+
 
 #################################################
 # Flask Routes
 #################################################
 
-# @TODO: Complete the routes for your app here
-# YOUR CODE GOES HERE
+@app.route("/api/v1.0/justice-league")
+def justice_league():
+    """Return the justice league data as json"""
+
+    return jsonify(justice_league_members)
+
+
+@app.route("/")
+def welcome():
+    return (
+        f"Welcome to the Justice League API!<br/>"
+        f"Available Routes:<br/>"
+        f"/api/v1.0/justice-league"
+    )
+
 
 if __name__ == "__main__":
-    # @TODO: Create your app.run statement here
-    # YOUR CODE GOES HERE
+    app.run(debug=True)
