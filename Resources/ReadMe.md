@@ -79,8 +79,19 @@ The folders & ReadMe, along with their descriptions, within **Resources** are:
 
 ![SQL Joins](Images/sql_joins.png)
 
+---
+## Webscraping
+* [Webscraping for Beginners with Python & BeauifulSoup](https://medium.com/analytics-vidhya/web-scraping-for-beginners-with-python-and-beautifulsoup-3131435d0e97)
 
 
+---
+## HTML & CSS
+* [HTML vs CSS](https://techdifferences.com/difference-between-html-and-css.html)
+* [HTML & CSS Documentation Explained](https://www.w3.org/standards/webdesign/htmlcss)
+
+
+
+--- 
 ## Markdown
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
 * [Another Markdown Cheat Sheer](https://devhints.io/markdown)
@@ -117,7 +128,5 @@ This site supports these topics:
 7. And [more](https://www.w3schools.com/!)
 
 ---
-
-![Hustle](https://media.giphy.com/media/3oz8xD8KOjTwxGG1q0/giphy.gif)
 
 ![DO IT](https://media.giphy.com/media/3o85xtLX7zCyeeWGLC/giphy.gif)
