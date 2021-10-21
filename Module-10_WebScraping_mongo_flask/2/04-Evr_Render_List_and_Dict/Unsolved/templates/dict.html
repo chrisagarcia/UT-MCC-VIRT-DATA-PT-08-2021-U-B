@@ -5,25 +5,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Templates 101</title>
+  <title>Animal Adoption!</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 
 <body>
-  <div class="container">
-
-    <div class="jumbotron text-center">
-
-      <h2>{{ text }}</h2>
-      
-      <!-- Add Welcome message with name and hobby served from backend -->
-
-
+  <div class="container text-center">
+    <h1 class="jumbotron">Cat up for Adoption!</h1>
+    <div>
+      <ul style="list-style: none;">
+        <li>Name: {{ my_cat.name }}</li>
+        <li>Breed: {{ my_cat.breed }}</li>
+        <li>age: {{ my_cat.age }}</li>
+      </ul>
     </div>
-    
-    <!-- Add link to bonus -->
-
-
   </div>
 </body>
 
