@@ -16,10 +16,6 @@
 
 * Finally, print out how many good, ok and bad movies there were and what the overall total score was.
 
-## Bonus
-
-* Modify your code to use `forEach()` instead of the traditional `for` loop.
-
 ## Hints
 
 * You will need to research how to push elements to an empty array.
