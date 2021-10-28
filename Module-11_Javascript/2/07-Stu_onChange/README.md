@@ -19,3 +19,7 @@ In this activity, you will use d3 to reverse the input text and display it on th
 * Edit the `index.html` file to change the `h1` tag to an unordered list `ul`. Append each `word: count` as a `li` element.
 
 * Hint: You may need to iterate through the object using `Object.entries` and `forEach`. You can find examples [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries).
+
+- - -
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
