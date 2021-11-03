@@ -1,0 +1,1 @@
+const sales = [{'drink': 'beer', 'volume': 22.7}, {'drink': 'wine', 'volume': 17.1}, {'drink': 'martini', 'volume': 9.9}, {'drink': 'margarita', 'volume': 8.7}, {'drink': 'ice tea', 'volume': 7.2}, {'drink': 'rum & coke', 'volume': 6.1}, {'drink': 'mai tai', 'volume': 6.0}, {'drink': 'gin & tonic', 'volume': 4.6}]
