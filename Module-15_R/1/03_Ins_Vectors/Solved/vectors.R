@@ -53,6 +53,9 @@ round(stdev, 2)
 precipitation %>% sd()
 3.141592653 %>% round(2)
 
+precipitation %>% sd() %>% round(2)
+round(sd(precipitation), 2)
+
 # A few more methods
 # Determine the length of a vector
 length(precipitation)
