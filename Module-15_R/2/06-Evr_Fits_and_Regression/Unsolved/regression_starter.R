@@ -43,10 +43,11 @@
 diabetes <- read.csv(file="../Resources/diabetes.csv")
 
 # Plot a scatter plot of bp vs. one year disease progression
+plot(diabetes$bp, diabetes$One_Year_Disease_Progress)
 
 
 # Perform linear regression
+summary(lm(One_Year_Disease_Progress ~ bp, data=diabetes))
 
-
-# Get the r-sqaured value. 
+summary(lm(One_Year_Disease_Progress ~ bp + age + sex + bmi, data=diabetes))
 
