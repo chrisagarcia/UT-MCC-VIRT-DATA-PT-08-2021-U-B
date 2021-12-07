@@ -1,0 +1,25 @@
+What is machine learning?
+* training your computer to recognize patterns in data in order to make predictions.
+
+What is training?
+* Give the compute examples of how it should map an observations' known features to a known target.
+
+What do we need to give a trained model to get an prediction?
+* You feed the trained model the features it was was trained on and it will make a prediction.
+
+How do you tell if your model is good?
+* You give it testing data which is different observations with the same features and target. You send each of the observations features to get a prediction for each observations. Then you compare the predictions with the known values of the target.
+
+Types of Machine Learning?
+* supervised (input or features to an output or target)
+	- regression (continuous target)
+	- classification (discrete target)
+* unsupervised (no targets)
+	- clustering
+	- dimensional reduction
+
+Applications of Machine Learning?
+* recommender system
+* computer vision or image recognition
+* Speech recognition
+* Natural language processing (NLP)
